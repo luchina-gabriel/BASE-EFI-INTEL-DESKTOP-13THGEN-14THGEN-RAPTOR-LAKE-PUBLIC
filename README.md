@@ -6,6 +6,10 @@
 <br><br>
 🇧🇷 - Para download das EFIs BASEs, é necessário você ser membro de qualquer categoria no canal do YouTube e conectar seu Discord à sua conta YouTube para acesso à sala `#efi-base`;
 
+![youtube_connection](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-13THGEN-RAPTOR-LAKE-PUBLIC/assets/23700365/4086ad21-2b47-4cd8-b093-6d473c724d92)
+<br>
+![efi-base-channel](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-13THGEN-RAPTOR-LAKE-PUBLIC/assets/23700365/0ec86d4e-72da-4e47-9f4b-f1b31f1087b9)
+
 # Basic Info
 
 Note|Description
